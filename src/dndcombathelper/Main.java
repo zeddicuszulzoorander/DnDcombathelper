@@ -5,6 +5,7 @@ public class Main {
     DataShit dat;
     
     public Main(){
+        System.out.println("kkkk");
         dat = new DataShit();
     }
     
